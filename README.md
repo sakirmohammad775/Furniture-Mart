@@ -1,36 +1,129 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Heaven Furniture Mart
 
-## Getting Started
+> **Designed. Crafted. Customized.**
 
-First, run the development server:
+A premium, conversion-focused furniture landing page built for **Heaven Furniture Mart**, a bespoke furniture and interior styling brand based in Chattogram, Bangladesh.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The website is designed to communicate luxury, craftsmanship, customization, and trust through an editorial-style visual experience rather than a traditional e-commerce layout.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Heaven Furniture Mart specializes in premium and bespoke furniture designed around the customer's space, taste, and lifestyle.
 
-## Learn More
+This project focuses on creating a high-end digital presence that helps visitors:
 
-To learn more about Next.js, take a look at the following resources:
+- Understand the brand within the first few seconds
+- Explore furniture collections
+- Discover the bespoke furniture process
+- Learn about craftsmanship and materials
+- Visit the physical showroom
+- Request a furniture consultation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The website follows a simple conversion narrative:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Luxury → Craftsmanship → Customization → Trust → Consultation**
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Live Website
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Live:** Coming soon
+
+**Repository:** Coming soon
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- Next.js 15+
+- React
+- TypeScript
+- Tailwind CSS
+- Motion
+- Lucide React
+
+### Forms & Validation
+
+- React Hook Form
+- Zod
+- `@hookform/resolvers`
+
+### Backend / Email
+
+- Next.js Route Handlers
+- Resend
+
+### Deployment
+
+- Vercel
+
+---
+
+## 🎨 Design Direction
+
+The design is intentionally different from a conventional furniture e-commerce website.
+
+### Visual Language
+
+- Luxury editorial aesthetic
+- Large serif typography
+- Spacious layouts
+- Full-width photography
+- Subtle motion
+- Minimal UI
+- Strong visual hierarchy
+- Warm neutral colors
+
+### Color Palette
+
+| Color | Purpose |
+|---|---|
+| Deep Charcoal Teal | Primary dark sections |
+| Warm Ivory | Main background |
+| Muted Brass | Accent / highlights |
+| Deep Brown | Typography |
+| Natural Wood Tan | Furniture-inspired accent |
+
+### Typography
+
+**Display:** Cormorant Garamond
+
+**Body:** Manrope
+
+---
+
+## 📐 Website Structure
+
+```text
+Home
+│
+├── Navbar
+│
+├── Hero
+│   ├── Brand positioning
+│   ├── Primary CTA
+│   └── Scroll navigation
+│
+├── Brand Introduction
+│
+├── Signature Collections
+│
+├── Why Heaven
+│
+├── Bespoke Experience
+│
+├── Craftsmanship
+│
+├── Showroom
+│
+├── Managing Director Quote
+│
+├── Consultation Form
+│
+├── Final CTA
+│
+└── Footer
