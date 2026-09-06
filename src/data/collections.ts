@@ -13,7 +13,7 @@ export const collections: Collection[] = [
     title: "Living",
     description:
       "Sofas, coffee tables, TV units and consoles designed around the way you live.",
-    image: "/images/Living17.jpg",
+    image: "https://i.ibb.co.com/Q3vGrGBs/hero2.avif",
   },
   {
     id: "bedroom",
@@ -21,7 +21,7 @@ export const collections: Collection[] = [
     title: "Bedroom",
     description:
       "Beds, wardrobes, dressing tables and bedside pieces crafted for comfort.",
-    image: "/images/Bedroom11.jpg",
+    image: "https://i.ibb.co.com/PZNsq8Qk/Bedroom3.jpg",
   },
   {
     id: "dining",
@@ -29,7 +29,7 @@ export const collections: Collection[] = [
     title: "Dining",
     description:
       "Tables, chairs and cabinets created for memorable everyday moments.",
-    image: "/images/Dining5.jpg",
+    image: "https://i.ibb.co.com/FbVLK21Q/Dining.avif",
   },
   {
     id: "bespoke",
@@ -37,6 +37,6 @@ export const collections: Collection[] = [
     title: "Bespoke",
     description:
       "Furniture made specifically for your space, dimensions and taste.",
-    image: "/images/Office3.jpg",
+    image: "https://i.ibb.co.com/JwcjmXWW/Bespoke.webp",
   },
 ];

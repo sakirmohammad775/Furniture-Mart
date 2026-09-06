@@ -71,14 +71,14 @@ export function Craftsmanship() {
 
           <div className="grid gap-5 sm:grid-cols-2 lg:col-span-6 lg:col-start-7">
             <ImageReveal
-              src="/images/Dining7.jpg"
+              src="https://i.ibb.co.com/qLqC3WTp/craft1.jpg"
               alt="Craftsmanship detail at Heaven Furniture Mart"
               className="aspect-[3/4] sm:mt-16"
               sizes="(max-width: 640px) 100vw, 50vw"
             />
 
             <ImageReveal
-              src="/images/Bedroom2.jpg"
+              src="https://i.ibb.co.com/8gmqs8Lc/craft2.jpg"
               alt="Furniture material and craftsmanship detail"
               className="aspect-[3/4]"
               sizes="(max-width: 640px) 100vw, 50vw"

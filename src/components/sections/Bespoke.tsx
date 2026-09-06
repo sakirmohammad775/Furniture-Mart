@@ -67,7 +67,7 @@ export function Bespoke() {
         <div className="mt-20 grid gap-10 lg:grid-cols-12 lg:items-start">
           <div className="lg:col-span-7">
             <ImageReveal
-              src="/images/Bedroom7.jpg"
+              src="https://i.ibb.co.com/whg1DZV2/Bespoke2.webp"
               alt="Bespoke furniture crafted by Heaven Furniture Mart"
               className="aspect-[4/3]"
               sizes="(max-width: 1024px) 100vw, 60vw"
