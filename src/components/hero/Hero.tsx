@@ -28,7 +28,7 @@ export function Hero() {
           className="absolute inset-0"
         >
           <Image
-            src="/images/Furniture1.jpg"
+            src="https://i.ibb.co.com/Q3vGrGBs/hero2.avif"
             alt="Elegant dining furniture interior by Heaven Furniture Mart"
             fill
             priority

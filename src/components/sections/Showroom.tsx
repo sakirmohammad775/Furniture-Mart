@@ -23,7 +23,7 @@ export function Showroom() {
           className="absolute inset-0"
         >
           <img
-            src="/images/Furniture1.jpg"
+            src="https://i.ibb.co.com/rGQy9Yfh/hero1.avif"
             alt="Heaven Furniture Mart showroom in Agrabad, Chattogram"
             className="h-full w-full object-cover"
           />
